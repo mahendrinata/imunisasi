@@ -1,0 +1,31 @@
+echo date('Y-m-d', strtotime('+14 days'));
+
+					<div class="header">
+						<span>Form elements</span>
+					</div>
+					<br class="clear"/>
+					<div class="content">
+						<div class="alert_warning" style="margin-top:0">
+							<p>
+								<img src="images/icon_warning.png" alt="success" class="mid_align"/>
+								Warning Notification.
+							</p>
+						</div>
+						<div class="alert_info">
+							<p>
+								<img src="images/icon_info.png" alt="success" class="mid_align"/>
+								Information Notification.
+							</p>
+						</div>
+						<div class="alert_success">
+							<p>
+								<img src="images/icon_accept.png" alt="success" class="mid_align"/>
+								Success Notification.
+							</p>
+						</div>
+						<div class="alert_error">
+							<p>
+								<img src="images/icon_error.png" alt="delete" class="mid_align"/>
+								Error Notification.
+							</p>
+						</div>
